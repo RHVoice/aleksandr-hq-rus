@@ -1,6 +1,6 @@
 Important
 The voice was created from original audio materials provided by the copyright holder.
-Current voice has a higher quality  compared to the previous version, They sound differently, because of that new voice is temporarily seperated into a standalone voice to collect feedback.
+Current voice has a higher quality  compared to the previous version, They sound differently, because of that new voice is temporarily separated into a standalone voice to collect feedback.
 This version may contain issues that are not present in the original voice. Since speech database is open, we will be glad to your participation in improving voice quality.
 
 License
