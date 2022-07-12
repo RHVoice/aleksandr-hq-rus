@@ -10,6 +10,7 @@ This voice is distributed under [the Creative Commons Attribution-ShareAlike 4.0
 * Artem Plaksin AKA maniyax — general leadership
 * Sergey Parshakov AKA Electrik — Editing of speaker recordings
 * Beka Gozalishvili AKA Gozaltech — voice training
+* Zvonimir Stanecic AKA 9a5dsz — voice training
 * Speaker: Aleksander Karlov (TV and radio broadcaster, audiobook reader)
 
 ## Contact us ##
